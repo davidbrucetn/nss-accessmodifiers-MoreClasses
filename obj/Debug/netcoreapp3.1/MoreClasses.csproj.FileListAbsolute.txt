@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.exe
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.deps.json
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.runtimeconfig.json
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.runtimeconfig.dev.json
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.dll
+C:\Users\sever\workspace\csharp\practice\MoreClasses\bin\Debug\netcoreapp3.1\MoreClasses.pdb
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.dll
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.pdb
+C:\Users\sever\workspace\csharp\practice\MoreClasses\obj\Debug\netcoreapp3.1\MoreClasses.genruntimeconfig.cache
