@@ -31,6 +31,6 @@ namespace MoreClasses
 
     public class Animal
     {
-        public string Species { get; set; }
+        protected string Species { get; set; }
     }
 }
